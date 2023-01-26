@@ -16,7 +16,7 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: "🇺🇸 [@im_furry_Data]美国美西_五星级 *9929 CU Premium", server: www.furbbs.top, port: 443, type: trojan, password: ef18607c, skip-cert-verify: false}
-  - {name: "🇺🇸 [@im_furry_Data]美国🇺🇸西部大带宽@200Mbps", server: login.furbbs.top, port: 443, type: trojan, password: 638a56cb, skip-cert-verify: false}
+  - {name: "🇺🇸 [@im_furry_Data]美国西部大带宽@200Mbps", server: login.furbbs.top, port: 443, type: trojan, password: 638a56cb, skip-cert-verify: false}
 proxy-groups:
   - name: 🇭🇰 香港节点
     type: select
