@@ -51,6 +51,7 @@ proxy-groups:
     type: select
     proxies:
       - 🇺🇸 [@im_furry_Data]美国美西_五星级 *9929 CU Premium
+      - 🇺🇸 [@im_furry_Data]美国🇺🇸西部大带宽@200Mbps
   - name: ♻️ 手动切换
     type: select
     proxies:
